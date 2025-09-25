@@ -1,11 +1,11 @@
-# 👋 Привет, я Dauren  
+# 👋 Привет, я Dauren Shalabayev  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&lines=Fullstack+разработчик;Люблю+Go,+Python+и+Vue.js;Строю+pet-projects+и+сервисы)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 Обо мне  
-- 🔭 Сейчас работаю над проектом **crudforms.pro**  
+- 🔭 Работаю над проектом **crudforms.pro**  
 - 🌱 Изучаю **Django, Go, Vue.js**  
 - 💬 Можно спросить про backend и архитектуру  
 - ⚡ Интересуюсь автоматизацией, микросервисами и DevOps  
@@ -23,8 +23,8 @@
 ---
 
 ## 📊 Статистика  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dauren10&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dauren10&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dauren-shalabayev&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dauren-shalabayev&layout=compact&theme=radical)
 
 ---
 
@@ -34,4 +34,4 @@
 
 ---
 
-⭐️ From [dauren10](https://github.com/dauren10)
+⭐️ From [dauren-shalabayev](https://github.com/dauren-shalabayev)
