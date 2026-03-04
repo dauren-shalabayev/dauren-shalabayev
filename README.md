@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Dauren Shalabayev  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&lines=Backend+Engineer+%7C+Go+%7C+Architecture;Founder+of+crudforms.pro;AI+for+building+full-featured+web+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&lines=Backend+Engineer+%7C+Go+%7C+Architecture;Founder+of+crudforms.net;AI+for+building+full-featured+web+projects)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About Me  
-- 🔭 Founder of **[crudforms.pro](https://crudforms.net)** — an AI-powered platform for building full-featured web projects  
+- 🔭 Founder of **[crudforms.net](https://crudforms.net)** — an AI-powered platform for building full-featured web projects  
 - 🛠 Focused on **backend architecture**, **concurrency in Go**, and **resilient distributed systems**  
 - 🌱 Building tools for automating CRUD operations and accelerating development  
 - ⚡ I believe great code = simple architecture + clear processes  
@@ -32,7 +32,7 @@
 
 ---
 
-## 💡 Project: [crudforms.pro](https://crudforms.net)  
+## 💡 Project: [crudforms.net](https://crudforms.net)  
 An **AI platform for building full-featured web applications**:  
 - 🔹 Auto-generates CRUD forms and APIs from models  
 - 🔹 Customizable UI (dark/light theme, field visibility)  
